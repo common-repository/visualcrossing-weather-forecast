@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-07-19 12:59+0530\n"
+"PO-Revision-Date: 2020-07-19 13:00+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_attr_e;esc_attr__;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/main.php:28
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: admin/main.php:37 admin/main.php:65
+msgid "Weather Forecast Settings"
+msgstr "Configuración del pronóstico del tiempo"
+
+#: admin/main.php:58
+msgid "Settings Updated."
+msgstr "Ajustes actualizados."
+
+#: admin/main.php:61
+msgid "Error Saving Settings."
+msgstr "Configuración de guardado de errores."
+
+#: admin/main.php:145
+msgid "API Key"
+msgstr "Clave API"
+
+#: admin/main.php:147
+msgid "Put your API key here."
+msgstr "Ponga su clave de API aquí."
+
+#: admin/main.php:154
+msgid "Location"
+msgstr "Ubicación"
+
+#: admin/main.php:156
+msgid "ex. London, UK"
+msgstr "por ejemplo, Londres, Reino Unido"
+
+#: admin/main.php:163
+msgid "Mode"
+msgstr "Modo"
+
+#: admin/main.php:174
+msgid "Forecast Days"
+msgstr "Días de Pronóstico"
+
+#: admin/main.php:183
+msgid "Title"
+msgstr "Título"
+
+#: admin/main.php:192
+msgid "Unit Group"
+msgstr "Grupo de Unidades"
+
+#: admin/main.php:199
+msgid "Show Title"
+msgstr "Mostrar título"
+
+#: admin/main.php:206
+msgid "Show Conditions"
+msgstr "Mostrar condiciones"
+
+#: admin/main.php:228
+msgid "Shortcode Information"
+msgstr "Información de código corto"
+
+#: admin/main.php:231
+msgid "Copy this shortcode and put in the page or post to display Weather Forecast."
+msgstr "Copie este shortcode y colóquelo en la página o publicación para mostrar pronóstico del tiempo."
+
+#: admin/main.php:236
+msgid "You can override default settings by using shortcode parameters"
+msgstr "Puede anular la configuración predeterminada mediante parámetros de shortcode"
+
+#: admin/main.php:253
+msgid "How to insert Shortcode in WordPress ?"
+msgstr "¿Cómo insertar Shortcode en WordPress?"
+
+#: admin/main.php:253
+msgid "Check This Video Guide"
+msgstr "Consulte esta guía de vídeo"
+
+#: libs/helper.php:62 libs/helper.php:70 libs/helper.php:86 libs/helper.php:90
+msgid "License validation failed."
+msgstr "La validación de la licencia falló."
+
+#: libs/helper.php:82
+msgid "Invalid License Key."
+msgstr "Clave de licencia inválida."
+
+#: visualcrossing-weather-forecast.php:227
+msgid "Cloning is forbidden."
+msgstr "La clonación está prohibida."
+
+#: visualcrossing-weather-forecast.php:236
+msgid "Unserializing instances of this class is forbidden."
+msgstr "Se prohíbe la serialización de instancias de esta clase."
+
+#~ msgid "Coupon code via URL - Settings"
+#~ msgstr "Código de cupón vía URL - Configuración"
+
+#~ msgid "Coupon Via Query"
+#~ msgstr "Cupón vía consulta"
+
+#~ msgid "Create Unique URL Query String using which your customer can apply this coupon. Leave it blank if do not wanted apply coupon via Query String"
+#~ msgstr "Cree una cadena de consulta de URL única con la que su cliente pueda aplicar este cupón. Déjelo en blanco si no desea aplicar el cupón a través de Cadena de consulta"
+
+#~ msgid "Coupon Via URL"
+#~ msgstr "Cupón vía URL"
+
+#~ msgid "Create Unique URL using which your customer can apply this coupon."
+#~ msgstr "Cree una URL única con la que su cliente pueda aplicar este cupón."
+
+#~ msgid "Bundle Products (Optional)"
+#~ msgstr "Paquete de productos"
+
+#~ msgid "Search for a product"
+#~ msgstr "Busca un producto"
+
+#~ msgid "Auto add your selected products in cart when user visit this coupon URL. It is optional."
+#~ msgstr "Agregue automáticamente los productos seleccionados en el carrito cuando el usuario visite esta URL de cupón. Es opcional."
+
+#~ msgid "Auto Redirect (Optional)"
+#~ msgstr "Redireccionamiento automático"
+
+#~ msgid "Select a page"
+#~ msgstr "Selecciona una página"
+
+#~ msgid "Auto redirect to page after customer visit & apply coupon via this URL."
+#~ msgstr "Redireccionar automáticamente a la página después de la visita del cliente y aplicar el cupón a través de esta URL."
+
+#~ msgid "Check Restriction"
+#~ msgstr "Verificar restricción"
+
+#~ msgid "Apply the coupon only when customer's cart pass coupon's Usage restriction."
+#~ msgstr "Aplique el cupón solo cuando el carrito del cliente pase la restricción de uso del cupón."
+
+#~ msgid "License Page"
+#~ msgstr "Página de licencia"
+
+#~ msgid "Please Activate the plugin."
+#~ msgstr "Por favor, active el plugin."
+
+#~ msgid "Via Query"
+#~ msgstr "Vía consulta"
+
+#~ msgid "Via URL"
+#~ msgstr "Vía URL"
+
+#~ msgid "Coupon Field Display"
+#~ msgstr "Visualización de campo de cupón"
+
+#~ msgid "Hide on cart page."
+#~ msgstr "Ocultar en la página del carrito."
+
+#~ msgid "Hide the coupon code field on the cart page."
+#~ msgstr "Ocultar el campo de código de cupón en la página del carrito."
+
+#~ msgid "Hide on checkout page."
+#~ msgstr "Ocultar en la página de pago."
+
+#~ msgid "Hide the coupon code field on the checkout page."
+#~ msgstr "Ocultar el campo de código de cupón en la página de pago."
+
+#~ msgid "Please enter your Licence Key in the bellow box and click Activate button."
+#~ msgstr "Ingrese su clave de licencia en el cuadro de abajo y haga clic en el botón Activar."
+
+#~ msgid "Activate"
+#~ msgstr "Activar"
+
+#~ msgid "Coupon added but not yet applied:"
+#~ msgstr "Cupón agregado pero aún no aplicado:"
+
+#~ msgid "Coupon already added but not yet applied:"
+#~ msgstr "Cupón ya agregado pero aún no aplicado:"
